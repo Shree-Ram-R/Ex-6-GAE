@@ -1,7 +1,7 @@
 
 # Ex-6-GAE
-Date:
-Aim:
+# Date:
+# Aim:
 ToinstallGoogleAppEngine.Createhelloworldappandothersimplewebapplicationsusingpython/java
 
 GoogleCloudPlatform(GCP)
